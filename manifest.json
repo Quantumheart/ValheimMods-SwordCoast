@@ -3,6 +3,9 @@
     "description": "Mod pack for the Sword Coast server",
     "version_number": "1.0.0",
     "website_url": "https://github.com/Quantumheart/ValheimMods-SwordCoast",
-    "dependencies": []
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202",
+        "RustyMods-Seasonality-3.2.1"
+    ]
 
 }
