@@ -1,7 +1,7 @@
 {
     "name": "Sword_Coast",
     "description": "Mod pack for the Sword Coast server",
-    "version_number": "1.0.4",
+    "version_number": "1.0.5",
     "website_url": "https://github.com/Quantumheart/ValheimMods-SwordCoast",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202",
@@ -79,7 +79,7 @@
         "ComfyMods-SearsCatalog-1.4.0",
         "Yggdrah-DragonRiders-1.0.5",
         "HappyDragoon-DragoonCapes-1.2.91",
-        "shudnal-TradersExtended-1.0.21",
+        "shudnal-TradersExtended-1.1.1",
         "Neobotics-HUDCompass-1.0.5",
         "GetOffMyLawn-ToggleMovementMod-1.1.0",
         "CookieMilk-YouGotMail-1.0.9",
@@ -90,7 +90,9 @@
         "nwesterhausen-DiscordConnector-2.1.17",
         "RustyMods-SeasonalityTextures-1.0.0",
         "Smoothbrain-StartupAccelerator-1.0.2",
-        "RustyMods-Lumberyard-1.0.0"
+        "RustyMods-Lumberyard-1.0.0",
+        "ComfyMods-Chatter-2.5.0",
+        "Azumatt-LimitWorkstationDiscovery-1.0.1"
 
     ]
 
