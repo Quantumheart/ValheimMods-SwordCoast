@@ -1,3 +1,7 @@
+## 1.0.5
+- Added Chatter and LimitDiscoveryRange
+- Updated TradersExtended
+
 ## 1.0.4
 - Update Almanac
 - Update MultiUserChest and Customships
