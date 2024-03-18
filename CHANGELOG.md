@@ -1,3 +1,9 @@
+## 1.0.4
+- Update Almanac
+- Update MultiUserChest and Customships
+- Update Jewelcrafting
+- Update devcommands
+
 ## 1.0.3 
 - Update Seasonality @3.2.2
 - Upgrade VNEI, MultiUserChest, Almanac, CrystalLights, HUDCompass 
