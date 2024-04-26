@@ -1,3 +1,6 @@
+## 1.0.6
+- Updated all mods to latest
+
 ## 1.0.5
 - Added Chatter and LimitDiscoveryRange
 - Updated TradersExtended
